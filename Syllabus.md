@@ -1,0 +1,50 @@
+# MSIMBO Program Syllabus
+
+- Week 1: Overview, Getting Started, Github Setup, HTML & CSS
+- Week 2: Bootstrap & TailwindCSS
+	  - **Student Showcase**: MSIMBO website v1
+- Week 3: DOM, Events 
+- Week 4: DOM, Events 
+	  - Exercise: 
+		- Build a Table
+		- Elements by Tag Name, pp. 242
+		- The Cat's Hat, pp. 242
+	  - **Student Showcase**: MSIMBO Website v2
+- Week 5: HTTP & API - 1
+- Week 6: HTTP & API -2 
+	  - Exercise: Tabs. pp. 260
+	  - **Student Showcase**: TODO
+- Week 7: Node.js & Express
+- Week 8: Databases (Intro to NoSQL & SQL)
+	- Exercise:
+		- Docker/Laradock Setup
+		- **Student Showcase**: Monster Jobs Finder v1
+- Week 9: Prototype, Object-Orientation and Functional Programming
+	- Exercise: 
+		- Flattening, pp. 95
+		- Dominant Writing Direction, pp. 96
+- Week 10: Algorithms & Data Structures v1
+	  - Exercise:
+		  - Recursion, pp. 56
+		  - Bean Counting, pp. 56
+	  - **Student Showcase**: Monster Jobs Finder v2
+- Week 11: Algorithms & Data Structures v2 
+	  - Interviewing Techniques
+- Week 12: Modules & Async Programming
+  - Exercise
+	- Parsing. pp. 202
+	- **Select Capstone Project**
+	  - **Student Showcase**: A Programming Language, pp. 202 - 214
+- Week 13: React 1
+- Week 14: React 2
+	  - **Student Showcase**: Capstone Project v1
+- Week 15: React 3
+- Week 16: React Native 1 (Native Mobile Development)
+	  - **Student Showcase**: Capstone Project v2
+- Week 17: React Native 2
+- Week 18: Intro to AI/Deep Learning with JS
+  - **Student Showcase**: Capstone Project v3
+- Week 19: Intro to Artificial Intelligence with Tensorflow.js
+- Week 20: Capstone Project Reviews
+  - **Student Showcase**: Capstone Project v4
+
