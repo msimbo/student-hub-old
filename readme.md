@@ -1,13 +1,15 @@
 <p align="center">
-<img width="200" sr="https://i.imgur.com/R5S3FM1.gif> 
+  <img src="https://i.imgur.com/R5S3FM1.gif">
 </p>
 
 __MSIMBO__ Code Bootcamp is the non-profit web development bootcamp / coding program by The Urban League of Eastern Massachusetts. Our full-stack development program is a 20-week intensive that teaches front-end and back-end subjects like JavaScript, React, Node.js, PHP, MySQL, NoSQL, HTML, CSS, Amazon Web Services, Git/GitHub, Project Management and others. We also teach students how to solve problems, think like a programmer, and succeed in today's modern, distributed work environment.
 
 ----
-<p align="center">
+
+
 [Why MSIMBO?](#why-msimbo) |[ Program Schedule](#schedule) | [Program Expectations](#expectations) | [Syllabus](Syllabus) | [Resources](/resources) | [Book Instructor Personal Session](https://api.zoom.ai/go/msimbohour)
-</p>
+
+
 ----
 
 ## <a name="why-msimbo">What's in it for you:</a>
