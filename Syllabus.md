@@ -1,50 +1,64 @@
 # MSIMBO Program Syllabus
-
-- Week 1: Overview, Getting Started, Github Setup, HTML & CSS
+- Week 1: Overview, Getting Started, Development Environment Setup & Pre-work
+	- Exercise: 
+		- Complete Prework
+		- Submit HTML/CSS pre-work project
 - Week 2: Bootstrap & TailwindCSS
 	  - **Student Showcase**: MSIMBO website v1
 - Week 3: DOM, Events 
 - Week 4: DOM, Events 
-	  - Exercise: 
-		- Build a Table
-		- Elements by Tag Name, pp. 242
-		- The Cat's Hat, pp. 242
+	  - Exercise (due before demo day): 
+			- Build a Table
+			- Elements by Tag Name, Eloquent Javascript - pp. 242
+			- The Cat's Hat, Eloquent Javascript - pp. 242
 	  - **Student Showcase**: MSIMBO Website v2
 - Week 5: HTTP & API - 1
+	- Intro to "Backend Development": 
+	- PHP & Node.js
+	- Serverless with *Amazon Web Services*
 - Week 6: HTTP & API -2 
-	  - Exercise: Tabs. pp. 260
-	  - **Student Showcase**: TODO
+	  - Exercise: Tabs. Eloquent Javascript - pp. 260
+	  - **Student Showcase**: TODO App
 - Week 7: Node.js & Express
 - Week 8: Databases (Intro to NoSQL & SQL)
 	- Exercise:
 		- Docker/Laradock Setup
-		- **Student Showcase**: Monster Jobs Finder v1
+		- **Student Showcase**: Jobs Finder v1 - _an app that allows you look for available jobs & track your applications_
 - Week 9: Prototype, Object-Orientation and Functional Programming
 	- Exercise: 
-		- Flattening, pp. 95
-		- Dominant Writing Direction, pp. 96
-- Week 10: Algorithms & Data Structures v1
+		- Flattening, Eloquent Javascript - Eloquent Javascript - pp. 95
+		- Dominant Writing Direction, Eloquent Javascript - Eloquent Javascript - pp. 96
+- Week 10: Algorithms, Data Structures & Functional Techniques v1
 	  - Exercise:
-		  - Recursion, pp. 56
-		  - Bean Counting, pp. 56
+		  - Recursion, Eloquent Javascript - Eloquent Javascript - pp. 56
+		  - Bean Counting, Eloquent Javascript - Eloquent Javascript - pp. 56
 	  - **Student Showcase**: Monster Jobs Finder v2
-- Week 11: Algorithms & Data Structures v2 
+- Week 11: Algorithms, Data Structures & Functional Techniques v1 v2 
 	  - Interviewing Techniques
 - Week 12: Modules & Async Programming
   - Exercise
-	- Parsing. pp. 202
+	- Parsing. Eloquent Javascript - pp. 202
 	- **Select Capstone Project**
-	  - **Student Showcase**: A Programming Language, pp. 202 - 214
-- Week 13: React 1
-- Week 14: React 2
+	  - **Student Showcase**: A Programming Language, Eloquent Javascript - Eloquent Javascript - pp. 202 - 214
+- Week 13: Introduction to Javascript Frameworks
+	- React
+	- Svelte
+- Week 14: React 1
 	  - **Student Showcase**: Capstone Project v1
-- Week 15: React 3
-- Week 16: React Native 1 (Native Mobile Development)
+- Week 15: React 2
+- Week 16: Introduction to Native Mobile Development
+	- React Native
+	- Nativescript
 	  - **Student Showcase**: Capstone Project v2
 - Week 17: React Native 2
 - Week 18: Intro to AI/Deep Learning with JS
   - **Student Showcase**: Capstone Project v3
-- Week 19: Intro to Artificial Intelligence with Tensorflow.js
+- Week 19: Intro to Artificial Intelligence with Tensorflow.js / Capstone Project
 - Week 20: Capstone Project Reviews
   - **Student Showcase**: Capstone Project v4
+		  - **Must Solve a Problem**
+		  - Use Backend technologies (docker-ed or Serverless)
+		  - Use React
+		  - Use TailwindCSS or Bootstrap
+		  - Must be deployable (i.e. can be used by people)
 
