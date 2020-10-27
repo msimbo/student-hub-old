@@ -7,7 +7,7 @@ __MSIMBO__ Code Bootcamp is the non-profit web development bootcamp / coding pro
 ----
 
 
-[Why MSIMBO?](#why-msimbo) |[ Program Schedule](#schedule) | [Program Expectations](#expectations) | [Syllabus](Syllabus) | [Resources](/resources) | [Book Instructor Personal Session](https://api.zoom.ai/go/msimbohour)
+[Why MSIMBO?](#why-msimbo) |[ Program Schedule](#schedule) | [Program Expectations](#expectations) | [Syllabus](Syllabus) | [Resources](/resources) | [Class Replays](https://web.microsoftstream.com/)(login with msimbo.org email) | [Book An Office Hour](https://api.zoom.ai/go/msimbohour)
 
 
 ----
