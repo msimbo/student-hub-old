@@ -1,6 +1,6 @@
 # MSIMBO Program Syllabus
 
-## [✔️] Sprint 1  (Oct. 26 - Nov 6)
+## [✔️] Sprint 1  (Oct. 26 - Nov. 6)
 ### Deliverable: Your First Website
 - Team Lead: Self-Directed
 
@@ -21,7 +21,7 @@ A client really loved the first website on the internet, http://info.cern.ch/hyp
 - Understanding of basic HTML Structure
 - Understand of basic CSS
 
-## [ ] Sprint 2  (Nov 9 - 21)
+## [ ] Sprint 2  (Nov. 9 - 21)
 ### Deliverable: MSIMBO Redesign v1
 - Team Lead: 
     - CodedBuster (CB): Jiannina Tillman
@@ -42,7 +42,7 @@ Here's the current website: https://msimbo.herokuapp.com
 - Week 4: In-depth Bootstrap & TailwindCSS 
 
 
-## [ ] Sprint 3  (Nov 23 - Dec 4)
+## [ ] Sprint 3  (Nov. 23 - Dec. 4)
 ### Deliverable: MSIMBO Redesign v2
 - Team Lead: 
     - CodedBuster (CB): Kim Amisial 
@@ -64,7 +64,7 @@ Things they are most interested in:
 - Week 5: Intro to Javascript - Basics & DOM Events
 - Week 6: Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
 
-## [ ] Sprint 4 (Dev 7 - 18)
+## [ ] Sprint 4 (Dec. 7 - 18)
 ### Deliverable: Jobs Tracker v1
 - Team Lead: 
     - CodedBuster (CB): Edwards Cedano  
@@ -82,7 +82,7 @@ A client has approached us and wants a website that allows them to see all avail
 - Week 7: ES6, Writing Apps. Data Types & Constructors.
 - Week 8: In-depth on JavaScript & the Browser
 
-## [ ] Sprint 5 (Dec 21 - Jan 30)
+## [ ] Sprint 5 (Dec. 21 - Jan. 30)
 ### Deliverable: Jobs Tracker v2
 - Team Lead: 
     - CodedBuster (CB): Cinnamon Sanchez
@@ -98,7 +98,7 @@ Our clients loved the work we did on the tracker and will like to see additional
 - Week 9: Deep-dive into Javascript Functions and Arrays
 - Week 10: Javascript Objects and Standard Libraries
 
-## [ ] Sprint 6 (Jan 4 - 15)
+## [ ] Sprint 6 (Jan. 4 - 15)
 ### Deliverable: Jobs Tracker v3
 - Team Lead: 
     - CodedBuster (CB): Romaine Watkins 
@@ -109,7 +109,7 @@ Our clients loved the work we did on the tracker and will like to see additional
 - Week 11: Object-Oriented Programming & Error Management
 - week 12: Functional Programming
 
-## [ ] Sprint 7 (Jan 18 - 29)
+## [ ] Sprint 7 (Jan. 18 - 29)
 ### Deliverable: Team Capstone Wireframes & Mockup
 - Team Lead: 
     - CodedBuster (CB): V
@@ -120,7 +120,7 @@ Our clients loved the work we did on the tracker and will like to see additional
 - Week 13: JSON, API & Async Javascript
 - Week 14: API and Serverless
 
-## [ ] Sprint 8 (Feb 1 - 12)
+## [ ] Sprint 8 (Feb. 1 - 12)
 ### Deliverable: Team Capstone v1 
 - Team Lead: 
     - CodedBuster (CB): V
@@ -131,7 +131,7 @@ Our clients loved the work we did on the tracker and will like to see additional
 - Week 16: Introduction to Javascript Frameworks (React & Svelte)
 - Week 17: React Deep-dive - 1
 
-## [ ] Sprint 9 (Feb 15 - 26)
+## [ ] Sprint 9 (Feb. 15 - 26)
 ### Deliverable: Team Capstone v2
 - Team Lead: 
     - CodedBuster (CB): V
@@ -142,7 +142,7 @@ Our clients loved the work we did on the tracker and will like to see additional
 - Week 18: React & Serverless
 - Week 19: Team Project Collaborations and Reviews
 
-## [ ] Sprint 10 (Mar 1 - 5)
+## [ ] Sprint 10 (Mar. 1 - 5)
 ### Deliverable: Team Capstone v3
 
 - Week 20: Team-lead project reviews
