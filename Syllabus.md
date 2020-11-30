@@ -21,7 +21,7 @@ A client really loved the first website on the internet, http://info.cern.ch/hyp
 - Understanding of basic HTML Structure
 - Understand of basic CSS
 
-## [ ] Sprint 2  (Nov. 9 - 21)
+## [✔️] Sprint 2  (Nov. 9 - 21)
 ### Deliverable: MSIMBO Redesign v1
 - Team Lead: 
     - CodedBuster (CB): Jiannina Tillman
