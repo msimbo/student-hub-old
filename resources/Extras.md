@@ -15,6 +15,7 @@ This is a rolling archive of useful resources that will help you along through t
 ## Mindset Shift
 - [Article] [Hackers & Painters](http://www.paulgraham.com/hp.html)
 - [Article] [How To Get Lucky](https://jjude.com/luck)
+- [Article] [General principles of SuperMemo ](https://www.supermemo.com/en/archives1990-2015/english/princip)
 - [Book] [Radical Focus: Achieving Your Most Important Goals With Objectives](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 - [Book] [Why Didn't They Teach Me This in School?](https://www.amazon.com/Didnt-They-Teach-This-School/dp/1481027565/ref=sr_1_2?dchild=1&keywords=Why+Didn%27t+They+Teach+Me+This+in+School%3F&qid=1606994211&sr=8-2&tag=duc0c-20)
 - [Book] [The Technology Salesperson's Handbook](https://www.amazon.com/Technology-Salespersons-Handbook-Lessons-Tactics/dp/0983406812/ref=sr_1_1?dchild=1&keywords=The+Technology+Salesperson%27s+Handbook&qid=1606917258&s=audible&sr=1-1)
