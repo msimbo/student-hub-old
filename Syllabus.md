@@ -42,7 +42,7 @@ Here's the current website: https://msimbo.herokuapp.com
 - Week 4: In-depth Bootstrap & TailwindCSS 
 
 
-## [ ] Sprint 3  (Nov. 23 - Dec. 4)
+## [✔️] Sprint 3  (Nov. 23 - Dec. 4)
 ### Deliverable: MSIMBO Redesign v2
 - Team Lead: 
     - CodedBuster (CB): Kim Amisial 
@@ -61,36 +61,52 @@ Things they are most interested in:
 - Live site deployed to Vercel
 
 ### Workshop
-- Week 5: Intro to Javascript - Basics & DOM Events
-- Week 6: Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
+- Week 5: In-depth TailwindCSS (and Project Workflow)
+- Week 6: Project Completions and Understanding Team Workflow
 
 ## [ ] Sprint 4 (Dec. 7 - 18)
-### Deliverable: Jobs Tracker v1
+### Deliverable: MSIMBO Redesign v3 (Individuals)
 - Team Lead: 
     - CodedBuster (CB): Edwards Cedano  
     - CodeOfHonors (CH): Johane Chery
     - CodeStars (CS): Abeco Rwakabuba
 
-A client has approached us and wants a website that allows them to see all available jobs listed at Monster.com
+Our non-profit client love our work is coming along and will like to make it look better and more functional.
+
+Things they are most interested in:
+- An improved design
+- Additional Pages with a profile of management bio
+- Ability to contact the MSIMBO Team
+
+**Acceptance Criteria**
+- Most be styled in TailwindCSS
+- Can contain Javascript
+- Form must submit (use https://formspree.io/) 
+- Code Deployed to Github with proper commits
+- Live site deployed to Vercel
+
+### Workshop
+- Week 7:  Intro to Javascript - Basics & DOM Events  / ES6, Writing Apps. Data Types & Constructors.
+- Week 8: In-depth on JavaScript & the Browser /  Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
+
+## [ ] Sprint 5 (Dec. 21 - Jan. 30)
+### Deliverable: Jobs Tracker v1/2
+#### New Group Formation
+
+- Team Lead: 
+    - CodedBuster (CB): Cinnamon Sanchez
+    - CodeOfHonors (CH): Ayad Ahmed
+    - CodeStars (CS): Intisam Maalim
+
+- [v1] A client has approached us and wants a website that allows them to see all available jobs listed at Monster.com
+- [v2] Our clients loved the work we did on the tracker and will like to see additional functionality.
 
 **Acceptance Criteria**
 - An initial wireframe using Balsamiq
 - Code Deployed to Github
 - Live site deployed to Vercel
 
-### Workshop
-- Week 7: ES6, Writing Apps. Data Types & Constructors.
-- Week 8: In-depth on JavaScript & the Browser
-
-## [ ] Sprint 5 (Dec. 21 - Jan. 30)
-### Deliverable: Jobs Tracker v2
-- Team Lead: 
-    - CodedBuster (CB): Cinnamon Sanchez
-    - CodeOfHonors (CH): Ayad Ahmed
-    - CodeStars (CS): Intisam Maalim
-
-Our clients loved the work we did on the tracker and will like to see additional functionality.
-
+**Acceptance Criteria 2 **
 - Ability to favorite jobs
 - Ability to send the job to a friend
 
