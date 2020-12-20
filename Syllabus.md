@@ -89,7 +89,7 @@ Things they are most interested in:
 - Week 7:  Intro to Javascript - Basics & DOM Events  / ES6, Writing Apps. Data Types & Constructors.
 - Week 8: In-depth on JavaScript & the Browser /  Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
 
-## [ ] Sprint 5 (Dec. 21 - Jan. 30)
+## [ ] Sprint 5 (Dec. 21 - Dec. 31)
 ### Deliverable: Jobs Tracker v1/2
 #### New Group Formation
 
