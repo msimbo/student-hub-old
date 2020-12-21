@@ -102,11 +102,12 @@ Things they are most interested in:
 - [v2] Our clients loved the work we did on the tracker and will like to see additional functionality.
 
 **Acceptance Criteria**
-- An initial wireframe using Balsamiq
-- Code Deployed to Github
-- Live site deployed to Vercel
+- [ ] A User Map or Journey using Balsamiq or Whimsical
+- [ ] An initial wireframe using Balsamiq
+- [ ] Code Deployed to Github
+- [ ] Live site deployed to Vercel
 
-**Acceptance Criteria 2 **
+**Acceptance Criteria for v2**
 - Ability to favorite jobs
 - Ability to send the job to a friend
 
