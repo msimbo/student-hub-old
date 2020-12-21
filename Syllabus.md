@@ -21,7 +21,7 @@ A client really loved the first website on the internet, http://info.cern.ch/hyp
 - Understanding of basic HTML Structure
 - Understand of basic CSS
 
-## [✔️] Sprint 2  (Nov. 9 - 21)
+## [✔] Sprint 2  (Nov. 9 - 21)
 ### Deliverable: MSIMBO Redesign v1
 - Team Lead: 
     - CodedBuster (CB): Jiannina Tillman
@@ -42,7 +42,7 @@ Here's the current website: https://msimbo.herokuapp.com
 - Week 4: In-depth Bootstrap & TailwindCSS 
 
 
-## [✔️] Sprint 3  (Nov. 23 - Dec. 4)
+## [✔] Sprint 3  (Nov. 23 - Dec. 4)
 ### Deliverable: MSIMBO Redesign v2
 - Team Lead: 
     - CodedBuster (CB): Kim Amisial 
@@ -64,7 +64,7 @@ Things they are most interested in:
 - Week 5: In-depth TailwindCSS (and Project Workflow)
 - Week 6: Project Completions and Understanding Team Workflow
 
-## [ ] Sprint 4 (Dec. 7 - 18)
+## [✔] Sprint 4 (Dec. 7 - 18)
 ### Deliverable: MSIMBO Redesign v3 (Individuals)
 - Team Lead: 
     - CodedBuster (CB): Edwards Cedano  
