@@ -89,7 +89,7 @@ Things they are most interested in:
 - Week 7:  Intro to Javascript - Basics & DOM Events  / ES6, Writing Apps. Data Types & Constructors.
 - Week 8: In-depth on JavaScript & the Browser /  Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
 
-## [ ] Sprint 5 (Dec. 21 - Jan. 30)
+## [ ] Sprint 5 - 6 (Dec. 21 - Jan. 4 - v1 /15 - v2)
 ### Deliverable: Jobs Tracker v1/2
 #### New Group Formation
 
@@ -102,43 +102,38 @@ Things they are most interested in:
 - [v2] Our clients loved the work we did on the tracker and will like to see additional functionality.
 
 **Acceptance Criteria**
-- [ ] A User Map or Journey using Balsamiq or Whimsical
-- [ ] An initial wireframe using Balsamiq
-- [ ] Code Deployed to Github
-- [ ] Live site deployed to Vercel
+- An initial wireframe using Balsamiq
+- Define user journey/map
+- JIRA scoped and attached to github
+- Code Deployed to Github
+- Live site deployed to Vercel
 
-**Acceptance Criteria for v2**
+**Acceptance Criteria 2**
 - Ability to favorite jobs
 - Ability to send the job to a friend
+- Working Code deployed to Vercel
+- 
 
 ### Workshop
 - Week 9: Deep-dive into Javascript Functions and Arrays
 - Week 10: Javascript Objects and Standard Libraries
-
-## [ ] Sprint 6 (Jan. 4 - 15)
-### Deliverable: Jobs Tracker v3
-- Team Lead: 
-    - CodedBuster (CB): Romaine Watkins 
-    - CodeOfHonors (CH): Xavier Parham
-    - CodeStars (CS): V
-    
-### Workshop
 - Week 11: Object-Oriented Programming & Error Management
 - week 12: Functional Programming
 
-## [ ] Sprint 7 (Jan. 18 - 29)
-### Deliverable: Team Capstone Wireframes & Mockup
-- Team Lead: 
-    - CodedBuster (CB): V
-    - CodeOfHonors (CH): V
-    - CodeStars (CS): V
 
+## [ ] Sprint 7 (Jan. 18 - 29)
+### Deliverable: Jobs Tracker v3
+- Team Lead: 
+    - CodedBuster (CB): Xavier Parham 
+    - CodeOfHonors (CH): Romaine Watkins
+    - CodeStars (CS): V
+    
 ### Workshop
 - Week 13: JSON, API & Async Javascript
 - Week 14: API and Serverless
 
 ## [ ] Sprint 8 (Feb. 1 - 12)
-### Deliverable: Team Capstone v1 
+### Deliverable: Team Capstone Wireframes & Mockup
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
@@ -149,18 +144,26 @@ Things they are most interested in:
 - Week 17: React Deep-dive - 1
 
 ## [ ] Sprint 9 (Feb. 15 - 26)
+### Deliverable: Team Capstone v1 
+- Team Lead: 
+    - CodedBuster (CB): V
+    - CodeOfHonors (CH): V
+    - CodeStars (CS): V
+
+### Workshop
+- Week 18: React & Serverless
+- Week 19: Team Project Collaborations and Reviews
+
+## [ ] Sprint 10 (Mar. 1 - 5)
 ### Deliverable: Team Capstone v2
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
     - CodeStars (CS): V
     
-### Workshop
-- Week 18: React & Serverless
-- Week 19: Team Project Collaborations and Reviews
-
-## [ ] Sprint 10 (Mar. 1 - 5)
 ### Deliverable: Team Capstone v3
-
 - Week 20: Team-lead project reviews
+
+### Deliverable: Team Capstone v4
+- Week 20 + 1: Team-lead project reviews
 
