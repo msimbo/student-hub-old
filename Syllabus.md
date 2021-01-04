@@ -49,6 +49,7 @@ Here's the current website: https://msimbo.herokuapp.com
     - CodeOfHonors (CH): Sauel Almonte
     - CodeStars (CS): Leonard Hall
     
+
 Our non-profit client love our work is coming along and will like to make it look better and more functional.
 
 Things they are most interested in:
@@ -116,7 +117,7 @@ Things they are most interested in:
 
 ### Workshop
 - Week 9: Deep-dive into Javascript Functions and Arrays
-- Week 10: Javascript Objects and Standard Libraries
+- [skipped] Week 10: Javascript Objects and Standard Libraries
 - Week 11: Object-Oriented Programming & Error Management
 - week 12: Functional Programming
 
@@ -126,44 +127,44 @@ Things they are most interested in:
 - Team Lead: 
     - CodedBuster (CB): Xavier Parham 
     - CodeOfHonors (CH): Romaine Watkins
-    - CodeStars (CS): V
+    - CodeStars (CS): Cinnamon Sanchez
     
 ### Workshop
 - Week 13: JSON, API & Async Javascript
 - Week 14: API and Serverless
 
 ## [ ] Sprint 8 (Feb. 1 - 12)
-### Deliverable: Team Capstone Wireframes & Mockup
+### Deliverable: Individual Capstone Wireframes & Mockup
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
     - CodeStars (CS): V
 
 ### Workshop
-- Week 16: Introduction to Javascript Frameworks (React & Svelte)
-- Week 17: React Deep-dive - 1
+- Week 15: Introduction to Javascript Frameworks (React)
+- Week 16: React Deep-dive - 1
 
 ## [ ] Sprint 9 (Feb. 15 - 26)
-### Deliverable: Team Capstone v1 
+### Deliverable: Individual Capstone v1 
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
     - CodeStars (CS): V
 
 ### Workshop
-- Week 18: React & Serverless
-- Week 19: Team Project Collaborations and Reviews
+- Week 17: React & Serverless
+- Week 18: Team Project Collaborations and Reviews
 
 ## [ ] Sprint 10 (Mar. 1 - 5)
-### Deliverable: Team Capstone v2
+### Deliverable: Individual Capstone v2
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
     - CodeStars (CS): V
     
-### Deliverable: Team Capstone v3
-- Week 20: Team-lead project reviews
+## Deliverable: Individual Capstone v3
+- Week 19: Team-lead project reviews
 
-### Deliverable: Team Capstone v4
-- Week 20 + 1: Team-lead project reviews
+## Deliverable: Individual Capstone v4
+- Week 20: Team-lead project reviews
 
