@@ -39,7 +39,7 @@ __MSIMBO__ Code Bootcamp is the non-profit web development bootcamp / coding pro
 - 3:00PM - 4:00PM: Group Project Collaboration
 
 ### 2nd Fridays
-- 9AM - 10:30AM: Session 1 
+- 9AM - 10:00AM: Session 1 
 - Break
 - 11:00 - 12PM: Session 2 
 - Break
