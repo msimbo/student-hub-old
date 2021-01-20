@@ -90,14 +90,14 @@ Things they are most interested in:
 - Week 7:  Intro to Javascript - Basics & DOM Events  / ES6, Writing Apps. Data Types & Constructors.
 - Week 8: In-depth on JavaScript & the Browser /  Thinking About Interface Designs & Javascript Libraries (jQuery and AlpineJS)
 
-## [ ] Sprint 5 - 6 (Dec. 21 - Jan. 4 - v1 /15 - v2)
+## [✔] Sprint 5 - 6 (Dec. 21 - Jan. 4 - v1 /15 - v2)
 ### Deliverable: Jobs Tracker v1/2
 #### New Group Formation
 
 - Team Lead: 
     - CodedBuster (CB): Cinnamon Sanchez
     - CodeOfHonors (CH): Ayad Ahmed
-    - CodeStars (CS): Intisam Maalim
+    - CodeStars (CS): Intisam Maalim (merged into CB & CH)
 
 - [v1] A client has approached us and wants a website that allows them to see all available jobs listed at Monster.com
 - [v2] Our clients loved the work we did on the tracker and will like to see additional functionality.
@@ -123,11 +123,20 @@ Things they are most interested in:
 
 
 ## [ ] Sprint 7 (Jan. 18 - 29)
-### Deliverable: Jobs Tracker v3
-- Team Lead: 
+### Deliverable 1: Jobs Tracker v3
+
+- Must look good (styled with TailwindCSS)
+- As a user I can login/out with Firebase into my jobs dashboard
+- As a user I can search for a a new job
+- As a user I can save save/filter jobs
+- As a user I can send job to a friend
+- Your presentation **MUST** follow the [new guide](https://kb.auth.africa/s/share/5104030/tyi6uoqv6xllr7843yg0) - [here's a simple way to write your slides in VS Code](https://github.com/marp-team/marp-vscode) & [the guide](https://marpit.marp.app/markdown)
+
+### Deliverable 2: Your Capstone Project Proposal
+
+  **Team Lead**: 
     - CodedBuster (CB): Xavier Parham 
     - CodeOfHonors (CH): Romaine Watkins
-    - CodeStars (CS): Cinnamon Sanchez
     
 ### Workshop
 - Week 13: JSON, API & Async Javascript
@@ -138,7 +147,6 @@ Things they are most interested in:
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
-    - CodeStars (CS): V
 
 ### Workshop
 - Week 15: Introduction to Javascript Frameworks (React)
@@ -149,7 +157,6 @@ Things they are most interested in:
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
-    - CodeStars (CS): V
 
 ### Workshop
 - Week 17: React & Serverless
@@ -160,7 +167,6 @@ Things they are most interested in:
 - Team Lead: 
     - CodedBuster (CB): V
     - CodeOfHonors (CH): V
-    - CodeStars (CS): V
     
 ## Deliverable: Individual Capstone v3
 - Week 19: Team-lead project reviews
