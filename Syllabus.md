@@ -122,7 +122,7 @@ Things they are most interested in:
 - week 12: Functional Programming
 
 
-## [ ] Sprint 7 (Jan. 18 - 29)
+## [✔] Sprint 7 (Jan. 18 - 29)
 ### Deliverable 1: Jobs Tracker v3
 
 - Must look good (styled with TailwindCSS)
