@@ -142,7 +142,7 @@ Things they are most interested in:
 - Week 13: JSON, API & Async Javascript
 - Week 14: API and Serverless
 
-## [ ] Sprint 8 (Feb. 1 - 12)
+## [✓] Sprint 8 (Feb. 1 - 12)
 ### Deliverable: Individual Capstone Wireframes & Mockup
 - Team Lead: 
     - CodedBuster (CB): V
@@ -152,7 +152,7 @@ Things they are most interested in:
 - Week 15: Introduction to Javascript Frameworks (React)
 - Week 16: React Deep-dive - 1
 
-## [ ] Sprint 9 (Feb. 15 - 26)
+## [✓] Sprint 9 (Feb. 15 - 26)
 ### Deliverable: Individual Capstone v1 
 - Team Lead: 
     - CodedBuster (CB): V
