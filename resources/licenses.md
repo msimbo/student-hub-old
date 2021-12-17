@@ -1,7 +1,7 @@
 # Licenses
 
 ### Balsamiq
-`ulem.org2020-21|LknqeJxzCncxiQ+pKc1JzdXLL0pXMDIwMtA1MqwxNDM2M7GwMAADANOlCe4=`
+`Ulem2022|KO2GeJxzCncxiQ+pCc1JzTUyMDKqMTQzs7Q0MrEwAAEAgDcHsw==`
 
 ### WebStorm
 - Download the [WebStorm Early Access](https://www.jetbrains.com/webstorm/nextversion/) (doesn't require a license)
